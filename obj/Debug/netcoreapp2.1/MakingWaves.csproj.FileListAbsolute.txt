@@ -1,0 +1,11 @@
+F:\C# Ćwiczenia\MakingWaves\MakingWaves\bin\Debug\netcoreapp2.1\MakingWaves.deps.json
+F:\C# Ćwiczenia\MakingWaves\MakingWaves\bin\Debug\netcoreapp2.1\MakingWaves.runtimeconfig.json
+F:\C# Ćwiczenia\MakingWaves\MakingWaves\bin\Debug\netcoreapp2.1\MakingWaves.runtimeconfig.dev.json
+F:\C# Ćwiczenia\MakingWaves\MakingWaves\bin\Debug\netcoreapp2.1\MakingWaves.dll
+F:\C# Ćwiczenia\MakingWaves\MakingWaves\bin\Debug\netcoreapp2.1\MakingWaves.pdb
+F:\C# Ćwiczenia\MakingWaves\MakingWaves\obj\Debug\netcoreapp2.1\MakingWaves.csprojAssemblyReference.cache
+F:\C# Ćwiczenia\MakingWaves\MakingWaves\obj\Debug\netcoreapp2.1\MakingWaves.csproj.CoreCompileInputs.cache
+F:\C# Ćwiczenia\MakingWaves\MakingWaves\obj\Debug\netcoreapp2.1\MakingWaves.AssemblyInfoInputs.cache
+F:\C# Ćwiczenia\MakingWaves\MakingWaves\obj\Debug\netcoreapp2.1\MakingWaves.AssemblyInfo.cs
+F:\C# Ćwiczenia\MakingWaves\MakingWaves\obj\Debug\netcoreapp2.1\MakingWaves.dll
+F:\C# Ćwiczenia\MakingWaves\MakingWaves\obj\Debug\netcoreapp2.1\MakingWaves.pdb
