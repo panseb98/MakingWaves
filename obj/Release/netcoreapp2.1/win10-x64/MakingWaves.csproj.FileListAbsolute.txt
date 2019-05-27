@@ -1,0 +1,14 @@
+F:\C# Ćwiczenia\MakingWaves\MakingWaves\bin\Release\netcoreapp2.1\win10-x64\hostpolicy.dll
+F:\C# Ćwiczenia\MakingWaves\MakingWaves\bin\Release\netcoreapp2.1\win10-x64\hostfxr.dll
+F:\C# Ćwiczenia\MakingWaves\MakingWaves\bin\Release\netcoreapp2.1\win10-x64\MakingWaves.exe
+F:\C# Ćwiczenia\MakingWaves\MakingWaves\bin\Release\netcoreapp2.1\win10-x64\MakingWaves.deps.json
+F:\C# Ćwiczenia\MakingWaves\MakingWaves\bin\Release\netcoreapp2.1\win10-x64\MakingWaves.runtimeconfig.json
+F:\C# Ćwiczenia\MakingWaves\MakingWaves\bin\Release\netcoreapp2.1\win10-x64\MakingWaves.runtimeconfig.dev.json
+F:\C# Ćwiczenia\MakingWaves\MakingWaves\bin\Release\netcoreapp2.1\win10-x64\MakingWaves.dll
+F:\C# Ćwiczenia\MakingWaves\MakingWaves\bin\Release\netcoreapp2.1\win10-x64\MakingWaves.pdb
+F:\C# Ćwiczenia\MakingWaves\MakingWaves\obj\Release\netcoreapp2.1\win10-x64\MakingWaves.csprojAssemblyReference.cache
+F:\C# Ćwiczenia\MakingWaves\MakingWaves\obj\Release\netcoreapp2.1\win10-x64\MakingWaves.csproj.CoreCompileInputs.cache
+F:\C# Ćwiczenia\MakingWaves\MakingWaves\obj\Release\netcoreapp2.1\win10-x64\MakingWaves.AssemblyInfoInputs.cache
+F:\C# Ćwiczenia\MakingWaves\MakingWaves\obj\Release\netcoreapp2.1\win10-x64\MakingWaves.AssemblyInfo.cs
+F:\C# Ćwiczenia\MakingWaves\MakingWaves\obj\Release\netcoreapp2.1\win10-x64\MakingWaves.dll
+F:\C# Ćwiczenia\MakingWaves\MakingWaves\obj\Release\netcoreapp2.1\win10-x64\MakingWaves.pdb
